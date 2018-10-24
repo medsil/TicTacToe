@@ -1,0 +1,13 @@
+{
+  "name": "tik-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "medsil <jose.silverio@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
